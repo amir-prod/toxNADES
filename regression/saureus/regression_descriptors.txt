@@ -1,0 +1,1 @@
+descriptor_list = ['ATS7dv', 'GATS1c', 'Xch-7d', 'PEOE_VSA3', 'VSA_EState2' ]

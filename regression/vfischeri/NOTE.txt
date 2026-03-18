@@ -1,0 +1,1 @@
+the y_train in this V/sicheri folder is the log(ec50), with natural base (np.log()). if you want the actual values use np.exp()
